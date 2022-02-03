@@ -3,8 +3,14 @@
 
 an app to lists some movies
 
-![preview](images/screen1.png)
-![preview](images/screen2.png)
+<table>
+  <tbody>
+    <tr>
+      <td><img src="images/screen1.png"/></td>
+      <td><img src="images/screen2.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Concepts used ###
 
